@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class ArrayMax_1D {
     public static void main(String[] args) {
-        double[] maxArray = new double[]{3.6, 2.7, 4.8, 9.5, 7.3, 8, 9.6};
+        double[] maxArray = new double[]{3.6, 2.7, 4.8, 9.5, 7.3, 8, 9.6,};
         // System.out.println(Arrays.stream(maxArray).max());
 
         double maxValue = getMaxOfArray(maxArray);
